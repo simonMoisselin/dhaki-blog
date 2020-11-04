@@ -1,1 +1,1 @@
-Sitemap: blog.dhaki.fr/sitemap.xml
+Sitemap: https://blog.dhaki.fr/sitemap.xml
