@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://blog.dhaki.fr/html/decouverte/2020/11/02/Le-Web-Commencement.html</loc>
+<loc>https://blog.dhaki.fr/blog/html/decouverte/2020/11/02/Le-Web-Commencement.html</loc>
 <lastmod>2020-11-02T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://blog.dhaki.fr/2020/11/02/M%C3%A9tiers-WEB.html</loc>
+<loc>https://blog.dhaki.fr/blog/2020/11/02/M%C3%A9tiers-WEB.html</loc>
 <lastmod>2020-11-02T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://blog.dhaki.fr/2020/11/02/WEB-Frontend.html</loc>
+<loc>https://blog.dhaki.fr/blog/2020/11/02/WEB-Frontend.html</loc>
 <lastmod>2020-11-02T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://blog.dhaki.fr/</loc>
+<loc>https://blog.dhaki.fr/blog/</loc>
 </url>
 <url>
-<loc>https://blog.dhaki.fr/search/</loc>
+<loc>https://blog.dhaki.fr/blog/search/</loc>
 </url>
 <url>
-<loc>https://blog.dhaki.fr/categories/</loc>
+<loc>https://blog.dhaki.fr/blog/categories/</loc>
 </url>
 </urlset>
